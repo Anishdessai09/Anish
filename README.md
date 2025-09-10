@@ -11,22 +11,20 @@
 - Robotics and Ai
   
 ### 👯 I’m looking to collaborate on
-- Open-source hardware projects
+- New projects and Hackthons
 - Educational tools for engineering students
-- Innovative AI solutions
+- Innovation in the world
 
 ### 💬 Ask me about
 - Python, C++, JavaScript, and HTML/CSS
-- Arduino, Raspberry Pi, and electronics
+- Arduino uno, Nano , Raspberry Pi, and electronics
+
+### 📂 Projects
+-A Medical website (https://github.com/Anishdessai09/Madilo.git)
+
 
 ### 📫 How to reach me
 - 📧 [Email](09anishdessai@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anish-naik-dessai-36ab09314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
-
-### 📂 Projects
--A Medical website (https://github.com/Anishdessai09/Madilo.git)
-
-⭐ If you like what you see, give me a ⭐ on my projects!
 
