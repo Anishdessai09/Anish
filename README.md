@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me
 - 📧 [Email](09anishdessai@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anish-dessai)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anish-naik-dessai-36ab09314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
