@@ -1,25 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anish Dessai</h1>
-<h3 align="center">A Goan Engineering Student passionate about coding, electronics, and innovation 🚀</h3>
+<h1 align="center">Namaskar, I'm Anish Dessai</h1>
+<h3 align="center">A Goan Engineering Student passionate about coding and electronics</h3>
 
-<div align="center">
-  <a href="https://github.com/AnishDessai">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnishDessai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishDessai&layout=compact&theme=radical"/>
-  </a>
-</div>
+
 
 ---
 
 ### 🔭 I’m currently working on
-- 🔧 Building projects using Arduino, Python, and React
-- 📱 Developing apps and tools to solve real-world problems
-- 💻 Learning advanced algorithms, machine learning, and cloud computing
+- 🔧 Building projects using Arduino, Python, and 
+- 📱web site and tools to solve real-world problems
+  
 
 ### 🌱 I’m currently learning
-- Embedded Systems & IoT
-- Artificial Intelligence & Data Science
-- Software Architecture & Best Practices
-
+- Robotics and Ai
+- D
 ### 👯 I’m looking to collaborate on
 - Open-source hardware projects
 - Educational tools for engineering students
@@ -28,7 +21,6 @@
 ### 💬 Ask me about
 - Python, C++, JavaScript, and HTML/CSS
 - Arduino, Raspberry Pi, and electronics
-- Data structures, algorithms, and problem solving
 
 ### 📫 How to reach me
 - 📧 anish@example.com
